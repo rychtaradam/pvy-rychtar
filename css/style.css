@@ -1,0 +1,18 @@
+* {
+    font-family: 'Nunito', sans-serif;
+  }
+
+.odkaz {
+    text-decoration: none;
+}
+
+.collap {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.text {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
